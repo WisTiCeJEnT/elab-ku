@@ -1,2 +1,0 @@
-Wattanai Sathuphan
-8
