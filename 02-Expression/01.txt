@@ -1,0 +1,8 @@
+print(3*42+7*85)
+avg = (38+12+50)/3
+10+21+32+43+54
+total/5
+x,y,z = 5,10,15
+"I'm fine."
+"\"print\" is a function."
+"\"That's good,\" he said."
