@@ -1,6 +1,5 @@
-song("cow","moo")
+import math
 
- return length*width
+from math import sin,cos,pi
 
- return firstname+' '+lastname
- print(firstname+' '+lastname)
+distance = math.sqrt(x**2+y**2+z**2)
