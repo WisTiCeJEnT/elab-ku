@@ -1,0 +1,6 @@
+song("cow","moo")
+
+ return length*width
+
+ return firstname+' '+lastname
+ print(firstname+' '+lastname)
