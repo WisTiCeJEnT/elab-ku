@@ -1,0 +1,15 @@
+[3,6,2]
+8
+20
+32
+
+'Good evening'
+
+sort(reverse=True)
+reverse()
+
+[3,5,6,10,10]
+
+[1, 2, 3, 4, 5]
+x
+list(x)
