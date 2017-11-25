@@ -1,5 +1,8 @@
-#====================================
+#=========== answer =================
 def decrypt(msg):
+    return "".join(list(msg.replace('G','d').replace('D','o').replace('O','g').upper())[::-1])
+"""
+#for debuging
     msg = msg.replace('G','d')
     msg = msg.replace('D','o')
     msg = msg.replace('O','g')
@@ -8,6 +11,7 @@ def decrypt(msg):
     msg.reverse()
     msg = "".join(msg)
     return msg
+"""
 #====================================
 def encrypt(msg):
     secret = []
