@@ -1,0 +1,16 @@
+John,66.3,170.2
+Jane,54.1,162.8
+Jimmy,89.5,179.8 
+
+["John",66.3,170.2],
+["Jane",54.1,162.8],
+["Jimmy",89.5,179.8 ]
+
+[3]
+[1]
+[2][0]
+[0][1]
+
+[x[0] for x in table]
+
+[lis for lis in table if lis[len(lis)-1]%2==0]
