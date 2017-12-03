@@ -16,4 +16,4 @@ for i in range(len(lis)):
     credit += int(lis[i][1])
     point += int(lis[i][1])*dic[lis[i][2]]
 print("Total credits =",credit)
-print("GPA = {:.2f}".format((point/credit)))
+print("GPA = {:.2f}".format(point/credit))
