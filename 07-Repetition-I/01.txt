@@ -1,0 +1,5 @@
+for i in range(num):
+    print(msg)
+
+for i in range(num):
+    print(msg+f" #{i+1}")
