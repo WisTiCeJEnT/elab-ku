@@ -1,4 +1,5 @@
-print((input()*int(input())+'\n')*int(input()),end='')
+s = int(input("Enter block size: "))
+print((input("Character to use: ")*s+'\n')*s,end='')
 """
 #========== Just for fun ===============
 s = int(input("Enter block size: "))
