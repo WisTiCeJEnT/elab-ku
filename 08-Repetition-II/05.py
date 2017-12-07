@@ -1,7 +1,7 @@
 h = int(input("Enter the depth of the well: "))
 u = int(input("Enter the height the frog can jump: "))
 d = int(input("Enter the height the frog slips down: "))
-if u-d>0:
+if u-d>0 or u>=h:
     count = 1
     while h>u:
         h -= u
