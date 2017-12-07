@@ -1,0 +1,7 @@
+"123456789abcd"
+
+"I12i4e67r"
+
+"g4e2t"
+
+range(len(msg))
